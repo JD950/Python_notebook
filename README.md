@@ -1,2 +1,2 @@
 # Python_projects
-Python
+ Practicing using Python, using Google https://colab.research.google.com
